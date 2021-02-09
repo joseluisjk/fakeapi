@@ -1,16 +1,43 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "firstname": "Jhon",
+      "lastname": "Smith",
+      "email": "john.smith@example.com",
+      "birthdate": "1980-01-23",
+      "address": {
+        "country": "ES",
+        "city": "Freiburg im Breisgau",
+        "street": "Lindenstraße 89",
+        "postalcode": "42030"
+      },
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "firstname": "Maria",
+      "lastname": "Smith",
+      "email": "john.smith@example.com",
+      "birthdate": "1980-01-23",
+      "address": {
+        "country": "DE",
+        "city": "Freiburg im Breisgau",
+        "street": "Lindenstraße 89",
+        "postalcode": "42030"
+      },
+      "id": 2
+    },
+    {
+      "firstname": "Peter",
+      "lastname": "Smith",
+      "email": "john.smith@example.com",
+      "birthdate": "1980-01-23",
+      "address": {
+        "country": "FR",
+        "city": "Freiburg im Breisgau",
+        "street": "Lindenstraße 89",
+        "postalcode": "42030"
+      },
+      "id": 3
     }
   ]
 }
