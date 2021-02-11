@@ -38,6 +38,32 @@
         "postalcode": "42030"
       },
       "id": 3
+    },
+        {
+      "firstname": "Jaimi",
+      "lastname": "Stone",
+      "email": "jaimi.stone@example.com",
+      "birthdate": "1980-01-23",
+      "address": {
+        "country": "FR",
+        "city": "Freiburg im Breisgau",
+        "street": "Lindenstraße 89",
+        "postalcode": "42030"
+      },
+      "id": 4
+    },
+        {
+      "firstname": "Ana",
+      "lastname": "Ortega",
+      "email": "ana.ortega@example.com",
+      "birthdate": "1980-01-23",
+      "address": {
+        "country": "FR",
+        "city": "Freiburg im Breisgau",
+        "street": "Lindenstraße 89",
+        "postalcode": "42030"
+      },
+      "id": 5
     }
   ]
 }
